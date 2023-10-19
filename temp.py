@@ -4,7 +4,7 @@ def calc_fahrenheit(cel):
     return fah
 
 def calc_celcius(fah):
-    cel = 5/9   * (fah - 32)
+    cel = 5/9 * (fah - 32)
     return cel
 
 
